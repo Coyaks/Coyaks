@@ -6,10 +6,10 @@
 
 Soy Ingeniero de Sistemas apasionado por el desarrollo de Software y la tecnología en general.
 
-## 📬 Get in touch
+## 📬 Contacto
 
-- LinkedIn: [linkedin.com/in/fernandomireles](https://www.linkedin.com/in/coyaks/)
-- Facebook: [facebook.com/fernandodilland](https://www.facebook.com/coyaks19)
+- LinkedIn: [linkedin.com/in/coyaks](https://www.linkedin.com/in/coyaks/)
+- Facebook: [facebook.com/coyaks19](https://www.facebook.com/coyaks19)
 
 
 

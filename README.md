@@ -6,14 +6,14 @@
 
 Soy Ingeniero de Sistemas apasionado por el desarrollo de Software y la tecnología en general.
 
-## 📬 Contacto
+### 📬 Contacto
 
 - LinkedIn: [linkedin.com/in/coyaks](https://www.linkedin.com/in/coyaks/)
 - Facebook: [facebook.com/coyaks19](https://www.facebook.com/coyaks19)
 
 
 
-## &#x1f4c8; My GitHub Stats
+### Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

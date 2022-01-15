@@ -1,4 +1,3 @@
-![natterstefan](https://res.cloudinary.com/dxgwcpdom/image/upload/v1623223350/GitHub/fm_y6xlzk.png)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Coyaks&color=2685BF)
 
@@ -26,5 +25,14 @@ Soy Ingeniero de Sistemas apasionado por el desarrollo de Software y la tecnolog
   <img align="center" alt="Coy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-### Frontend
+### Backend
+<div style="display: inline_block"><br>
+  <img align="center" alt="Coy-Js" height="30" width="40" src="https://cdn.svgporn.com/logos/php.svg">
+  <img align="center" alt="Coy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Coy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Coy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Coy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Coy-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Coy-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 

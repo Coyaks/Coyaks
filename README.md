@@ -5,10 +5,7 @@
 
 Soy Ingeniero de Sistemas apasionado por el desarrollo de Software y la tecnología en general.
 
-## 📬 Contacto
 
-- LinkedIn: [linkedin.com/in/coyaks](https://www.linkedin.com/in/coyaks/)
-- Facebook: [facebook.com/coyaks19](https://www.facebook.com/coyaks19)
 
 
 
@@ -36,4 +33,9 @@ Soy Ingeniero de Sistemas apasionado por el desarrollo de Software y la tecnolog
   <!--<img align="center" alt="Coy-CSS" height="30" width="40" src="https://cdn.svgporn.com/logos/django.svg">-->
   <img align="center" alt="Coy-Python" height="30" width="40" src="https://cdn.svgporn.com/logos/spring-icon.svg">
 </div>
+
+## 📬 Contacto
+
+- LinkedIn: [linkedin.com/in/coyaks](https://www.linkedin.com/in/coyaks/)
+- Facebook: [facebook.com/coyaks19](https://www.facebook.com/coyaks19)
 

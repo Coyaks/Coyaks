@@ -28,7 +28,6 @@ Soy Ingeniero de Sistemas apasionado por el desarrollo de Software y la tecnolog
 ### Backend
 <div style="display: inline_block"><br>
   <img align="center" alt="Coy-Js" height="30" width="40" src="https://cdn.svgporn.com/logos/php.svg">
-  <img align="center" alt="Coy-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Coy-React" height="30" width="40" src="https://cdn.svgporn.com/logos/laravel.svg">
   <img align="center" alt="Coy-HTML" height="30" width="40" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
   <img align="center" alt="Coy-CSS" height="30" width="40" src="https://cdn.svgporn.com/logos/django.svg">

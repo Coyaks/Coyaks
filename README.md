@@ -3,7 +3,7 @@
 
 ## Hola 👋🏻,
 
-Soy Ingeniero de Sistemas apasionado por el desarrollo de Software y la tecnología en general.
+Soy Ingeniero de Sistemas apasionado por el desarrollo de Software y la Tecnología en general.
 
 
 

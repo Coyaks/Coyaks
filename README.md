@@ -35,10 +35,6 @@ Soy Ingeniero de Sistemas apasionado por el desarrollo de Software y la Tecnolog
 </div>
 
 ## 📬 Contacto
-
-- LinkedIn: [linkedin.com/in/coyaks](https://www.linkedin.com/in/coyaks/)
-- Facebook: [facebook.com/coyaks19](https://www.facebook.com/coyaks19)
-
 <div> 
   <a href="https://www.youtube.com/channel/UC4aZuM_FivlShVFaXGsn7YA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/coyaksperez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
